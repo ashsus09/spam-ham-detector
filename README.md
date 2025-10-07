@@ -42,14 +42,13 @@ spam-detection/
 
 Clone the repository:
 
-git clone https://github.com/your-username/spam-detection.git
-cd spam-detection
+git clone https://github.com/ashsus09/spam-ham-detector.git
 
+cd spam-detection
 
 Install dependencies:
 
 pip install -r requirements.txt
-
 
 requirements.txt
 
