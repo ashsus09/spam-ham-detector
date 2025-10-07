@@ -1,8 +1,8 @@
-📩 Spam Detection System (Spam vs Ham)
+📩 # Spam Detection System (Spam vs Ham)
 
 This project is a Spam Detection System built using Python, Scikit-learn, and NLP techniques. The system classifies text messages as Spam (Fake) or Ham (Real) using TF-IDF vectorization and different Machine Learning models.
 
-🚀 Features
+🚀 # Features
 
 Preprocessing and cleaning of raw text data (lowercasing, tokenization, stemming, stopword removal).
 
